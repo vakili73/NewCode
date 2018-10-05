@@ -1,0 +1,11 @@
+# git ignoirng file/folder
+
+# ignore all datasets
+/*/Database/*/*.txt
+
+# ignore all producible data
+/*/logs
+
+# python temporary files
+/*/__pycache__
+/*/*/__pycache__
